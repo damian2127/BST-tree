@@ -1,0 +1,11 @@
+hehe:   Linia 5:1 razy |Ogolnie 1 razy  
+jak:   Linia 3:1 razy | Linia 2:1 razy | Linia 1:1 razy |Ogolnie 3 razy  
+jesteœ:   Linia 2:1 razy |Ogolnie 1 razy  
+Litwo:   Linia 2:1 razy |Ogolnie 1 razy  
+mója:   Linia 1:1 razy |Ogolnie 1 razy  
+Ojczyzno:   Linia 1:1 razy |Ogolnie 1 razy  
+Ty:   Linia 2:1 razy |Ogolnie 1 razy  
+zdrowie:   Linia 2:1 razy | Linia 1:1 razy |Ogolnie 2 razy  
+Zdrowiê:   Linia 1:1 razy |Ogolnie 1 razy  
+£itwo:   Linia 3:1 razy | Linia 1:2 razy |Ogolnie 3 razy  
+¿êœ:   Linia 4:1 razy |Ogolnie 1 razy  
